@@ -29,7 +29,7 @@ const services = [
     target: 'https://jsonplaceholder.typicode.com/users',
   },
   {
-    route: '/weather',
+    route: '/api3',
     target: 'https://api.openweathermap.org/data/2.5/weather',
      // Add additional proxy options for this service
      on: {
